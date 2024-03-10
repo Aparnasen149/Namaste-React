@@ -13,3 +13,11 @@ git push -u origin main
 …or import code from another repository
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
+
+
+PS C:\MyDocuments\REACT\Namaste_React> git init
+Initialized empty Git repository in C:/MyDocuments/REACT/Namaste_React/.git/
+PS C:\MyDocuments\REACT\Namaste_React> git branch -M main
+PS C:\MyDocuments\REACT\Namaste_React> git add .
+PS C:\MyDocuments\REACT\Namaste_React> git commit -m "Episode -01"
+PS C:\MyDocuments\REACT\Namaste_React> git remote add origin https://github.com/Aparnasen149/Namaste-React.git
